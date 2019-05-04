@@ -1,3 +1,3 @@
-my vimrc
+vimrc配置
 
-add branch
+参考1：https://www.zhihu.com/question/31934850
